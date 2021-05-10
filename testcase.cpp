@@ -45,7 +45,13 @@ long long Testcase::getThreshold() const
 long long Testcase::solve()
 {
 #ifdef VERBOSE
-        std::cout << ">>> Solving testcase #" << id_ << "\nCurrently at database 0." << std::endl;
+        std::cout << ">>> Solving testcase #" << id_ << " --> ";
+
+        for(const auto database_id_ : database_ids_) {
+            std::cout << database_id_ << ' ';
+        }
+
+        std::cout << "\nCurrently at database 0." << std::endl;
 #endif
 
     while(visited_.size() != database_ids_.size()) {
