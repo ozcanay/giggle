@@ -71,7 +71,7 @@ long long Testcase::solve()
             }
         }
 
-        long long next_db_id = std::llabs(curr_db_id_- smallest_db_id_candidate) >= std::abs(curr_db_id_ - largest_db_id_candidate)
+        long long next_db_id = std::llabs(curr_db_id_- smallest_db_id_candidate) >= std::llabs(curr_db_id_ - largest_db_id_candidate)
                                                                                ? smallest_db_id_candidate : largest_db_id_candidate;
 
 #ifdef VERBOSE
@@ -84,7 +84,7 @@ long long Testcase::solve()
         visited_.insert(curr_db_id_);
     }
 
-    longest_response_time_ += std::abs(curr_db_id_); /// we turn back to db id 0.
+    longest_response_time_ += std::llabs(curr_db_id_); /// we turn back to db id 0.
 #ifdef VERBOSE
         std::cout << "Returning back to database 0." << std::endl;
 #endif
