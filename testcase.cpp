@@ -45,7 +45,7 @@ long long Testcase::getThreshold() const
 long long Testcase::solve()
 {
 #ifdef VERBOSE
-        std::cout << ">>> Solving testcase #" << id_ << std::endl;
+        std::cout << ">>> Solving testcase #" << id_ << "\nCurrently at database 0." << std::endl;
 #endif
 
     while(visited_.size() != database_ids_.size()) {
@@ -79,6 +79,10 @@ long long Testcase::solve()
     }
 
     longest_response_time_ += std::abs(curr_db_id_); /// we turn back to db id 0.
+#ifdef VERBOSE
+        std::cout << "Returning back to database 0." << std::endl;
+#endif
+
 
 #ifdef VERBOSE
         std::cout << "<<< Finished solving testcase #" << id_ << std::endl;
