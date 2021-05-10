@@ -1,0 +1,896 @@
+Number of testcases: 100
+>>> Solving testcase #1
+Picking database -10 next.
+Picking database 10 next.
+<<< Finished solving testcase #1
+>>> Solving testcase #2
+Picking database 4 next.
+Picking database 1 next.
+Picking database 3 next.
+Picking database 2 next.
+<<< Finished solving testcase #2
+>>> Solving testcase #3
+Picking database 4 next.
+Picking database 1 next.
+Picking database 3 next.
+Picking database 2 next.
+<<< Finished solving testcase #3
+>>> Solving testcase #4
+Picking database -878831135 next.
+Picking database 816764128 next.
+Picking database -799491095 next.
+Picking database 325888143 next.
+Picking database -442843822 next.
+Picking database 46003330 next.
+Picking database -347618095 next.
+Picking database -137183730 next.
+<<< Finished solving testcase #4
+>>> Solving testcase #5
+Picking database 980289558 next.
+Picking database -973302409 next.
+Picking database 909349361 next.
+Picking database -789215854 next.
+Picking database 874567901 next.
+Picking database -771043562 next.
+Picking database 658707526 next.
+Picking database 317405001 next.
+Picking database 583481182 next.
+<<< Finished solving testcase #5
+>>> Solving testcase #6
+Picking database -903600891675186 next.
+Picking database 448239585724338 next.
+Picking database -545014894045491 next.
+Picking database 404759275619964 next.
+Picking database 80440429634726 next.
+Picking database 124199119452236 next.
+Picking database 116034535894672 next.
+<<< Finished solving testcase #6
+>>> Solving testcase #7
+Picking database -811625 next.
+Picking database 575156 next.
+Picking database -660735 next.
+Picking database 266274 next.
+Picking database -254425 next.
+Picking database 206136 next.
+Picking database -89023 next.
+<<< Finished solving testcase #7
+>>> Solving testcase #8
+Picking database -943158639751486 next.
+Picking database 937242560051621 next.
+Picking database -791295573157201 next.
+Picking database 271464562602980 next.
+Picking database -701013184329867 next.
+Picking database 44008313731767 next.
+Picking database -395090294315081 next.
+<<< Finished solving testcase #8
+>>> Solving testcase #9
+Picking database -799032899913492 next.
+<<< Finished solving testcase #9
+>>> Solving testcase #10
+Picking database 735632315417088 next.
+Picking database -724592185138328 next.
+Picking database 214206002288019 next.
+Picking database -609346805164840 next.
+Picking database 102374237051842 next.
+Picking database -512269811313236 next.
+Picking database -122991351005698 next.
+Picking database -389509068357628 next.
+Picking database -161556534542477 next.
+<<< Finished solving testcase #10
+>>> Solving testcase #11
+Picking database -999999999999962 next.
+Picking database 999999999999912 next.
+Picking database -999999999999785 next.
+Picking database 999999999999768 next.
+Picking database -999999999999480 next.
+Picking database 999999999999678 next.
+Picking database -999999999999382 next.
+Picking database 999999999999546 next.
+Picking database 999999999999543 next.
+<<< Finished solving testcase #11
+>>> Solving testcase #12
+Picking database -572687414611176 next.
+Picking database 552280277012061 next.
+Picking database -530503467302603 next.
+Picking database 549390463857409 next.
+Picking database -95011411056805 next.
+Picking database 535439216210213 next.
+Picking database -93844404615974 next.
+Picking database 473591773571587 next.
+<<< Finished solving testcase #12
+>>> Solving testcase #13
+Picking database 996903548347943 next.
+Picking database -895659709495057 next.
+Picking database 439034156979499 next.
+Picking database -576424488482327 next.
+Picking database -27639571537502 next.
+Picking database -513516489696412 next.
+Picking database -364448879827964 next.
+Picking database -457625586540698 next.
+Picking database -380781771476816 next.
+<<< Finished solving testcase #13
+>>> Solving testcase #14
+Picking database -1000000000000000 next.
+Picking database 999999999999969 next.
+Picking database -999999999999615 next.
+Picking database 999999999999889 next.
+Picking database -999999999999198 next.
+Picking database 999999999999489 next.
+<<< Finished solving testcase #14
+>>> Solving testcase #15
+Picking database 917972089438083 next.
+Picking database -423632976071743 next.
+Picking database 866606520122634 next.
+Picking database -355154353088408 next.
+Picking database 846964986802370 next.
+Picking database -123497014296916 next.
+Picking database 759754712386316 next.
+Picking database -7463404773382 next.
+Picking database 439570136994592 next.
+<<< Finished solving testcase #15
+>>> Solving testcase #16
+Picking database 999999999999994 next.
+Picking database -999999999999962 next.
+Picking database 999999999999907 next.
+Picking database -999999999999689 next.
+Picking database 999999999999622 next.
+Picking database -999999999999113 next.
+<<< Finished solving testcase #16
+>>> Solving testcase #17
+Picking database -830730339827566 next.
+Picking database 535649150283391 next.
+Picking database -752223181564897 next.
+Picking database 504211506319340 next.
+Picking database -245394075646399 next.
+Picking database 436318403016757 next.
+Picking database -182483944858774 next.
+Picking database 187820076107756 next.
+Picking database -77608364638201 next.
+<<< Finished solving testcase #17
+>>> Solving testcase #18
+Picking database -779609432 next.
+Picking database 733545535 next.
+Picking database -384842065 next.
+Picking database 690885353 next.
+Picking database -309330432 next.
+Picking database 653603774 next.
+Picking database -294105842 next.
+Picking database 169668940 next.
+Picking database -139195327 next.
+<<< Finished solving testcase #18
+>>> Solving testcase #19
+Picking database 999999999999975 next.
+Picking database -999999999999586 next.
+Picking database 999999999999380 next.
+Picking database -999999999999232 next.
+Picking database 999999999999365 next.
+<<< Finished solving testcase #19
+>>> Solving testcase #20
+Picking database -920218280 next.
+Picking database 869069052 next.
+Picking database -337163074 next.
+Picking database 816647613 next.
+Picking database 37006313 next.
+Picking database 502939344 next.
+Picking database 134137506 next.
+<<< Finished solving testcase #20
+>>> Solving testcase #21
+Picking database -999767452 next.
+Picking database 670928620 next.
+Picking database -898158478 next.
+Picking database 159970320 next.
+Picking database -554343161 next.
+Picking database 146806 next.
+Picking database -469951321 next.
+Picking database -81137257 next.
+Picking database -342664926 next.
+<<< Finished solving testcase #21
+>>> Solving testcase #22
+Picking database -962984171923913 next.
+Picking database 919545955297771 next.
+Picking database -752007306129568 next.
+Picking database 714588703425897 next.
+Picking database -665719502131096 next.
+Picking database 309054796677753 next.
+Picking database -315383858314469 next.
+Picking database 26138053748502 next.
+<<< Finished solving testcase #22
+>>> Solving testcase #23
+Picking database 988533316 next.
+Picking database -354691282 next.
+Picking database 499261732 next.
+Picking database -282309607 next.
+Picking database 239745687 next.
+Picking database -265370215 next.
+Picking database 76087331 next.
+Picking database -117751394 next.
+Picking database -93193159 next.
+<<< Finished solving testcase #23
+>>> Solving testcase #24
+Picking database -714922391 next.
+Picking database 646306379 next.
+Picking database -633676472 next.
+Picking database 573262076 next.
+Picking database 223641989 next.
+Picking database 376034287 next.
+Picking database 313790898 next.
+Picking database 366411242 next.
+Picking database 313891955 next.
+<<< Finished solving testcase #24
+>>> Solving testcase #25
+Picking database -1000000000000000 next.
+Picking database 1000000000000000 next.
+Picking database -500000000000000 next.
+Picking database 500000000000000 next.
+<<< Finished solving testcase #25
+>>> Solving testcase #26
+Picking database -989916553797047 next.
+Picking database 718307023357270 next.
+Picking database -966581278961338 next.
+Picking database 711217059070041 next.
+Picking database -849909139435529 next.
+Picking database 488462559840362 next.
+Picking database -743170701645242 next.
+Picking database -240135585000516 next.
+<<< Finished solving testcase #26
+>>> Solving testcase #27
+Picking database 999999999999861 next.
+<<< Finished solving testcase #27
+>>> Solving testcase #28
+Picking database -867796696210359 next.
+Picking database 822684862198021 next.
+Picking database -711668665782984 next.
+Picking database 427925582284247 next.
+Picking database -570433238555548 next.
+Picking database 163569359570280 next.
+Picking database -254848066444615 next.
+<<< Finished solving testcase #28
+>>> Solving testcase #29
+Picking database 1000000000000000 next.
+Picking database -750000000000000 next.
+Picking database 750000000000000 next.
+Picking database -500000000000000 next.
+Picking database 500000000000000 next.
+Picking database -250000000000000 next.
+Picking database 250000000000000 next.
+<<< Finished solving testcase #29
+>>> Solving testcase #30
+Picking database -999999999999246 next.
+Picking database 999999999999168 next.
+Picking database 999999999999155 next.
+<<< Finished solving testcase #30
+>>> Solving testcase #31
+Picking database -765121978 next.
+Picking database 491382057 next.
+Picking database -541759681 next.
+Picking database 463992909 next.
+Picking database -427490766 next.
+Picking database 462293388 next.
+Picking database -357405981 next.
+Picking database -161737257 next.
+<<< Finished solving testcase #31
+>>> Solving testcase #32
+Picking database 999999999999994 next.
+Picking database -999999999999686 next.
+Picking database 999999999999747 next.
+Picking database -999999999999660 next.
+Picking database 999999999999581 next.
+Picking database -999999999999574 next.
+Picking database 999999999999050 next.
+Picking database -999999999999176 next.
+<<< Finished solving testcase #32
+>>> Solving testcase #33
+Picking database -985475435660447 next.
+Picking database 695395314343103 next.
+Picking database -845526207300636 next.
+Picking database 157510693920823 next.
+Picking database -442512130984834 next.
+Picking database 96596142705256 next.
+Picking database -363744097783616 next.
+<<< Finished solving testcase #33
+>>> Solving testcase #34
+Picking database -877747409423255 next.
+Picking database -129727056673120 next.
+Picking database -663630068651194 next.
+Picking database -391489913551965 next.
+Picking database -537860645055059 next.
+Picking database -426955772009779 next.
+Picking database -486048175192059 next.
+<<< Finished solving testcase #34
+>>> Solving testcase #35
+Picking database 890079730117330 next.
+Picking database -881682884531181 next.
+Picking database 794039415036539 next.
+Picking database -814343002772384 next.
+Picking database 663721503724626 next.
+Picking database -745697510378407 next.
+Picking database 411656214105005 next.
+Picking database -507634270854034 next.
+Picking database -258758192639915 next.
+<<< Finished solving testcase #35
+>>> Solving testcase #36
+Picking database -879873065377462 next.
+Picking database 878883087021259 next.
+Picking database -616170609377424 next.
+Picking database 850215953803729 next.
+Picking database -481707669528082 next.
+Picking database 620433259861133 next.
+Picking database 1757087105808 next.
+Picking database 618662675839639 next.
+Picking database 595151875326083 next.
+<<< Finished solving testcase #36
+>>> Solving testcase #37
+Picking database -3 next.
+Picking database 3 next.
+Picking database -2 next.
+Picking database 2 next.
+Picking database -1 next.
+Picking database 1 next.
+<<< Finished solving testcase #37
+>>> Solving testcase #38
+Picking database 1000000000000000 next.
+Picking database -800000000000000 next.
+Picking database 800000000000000 next.
+Picking database -600000000000000 next.
+Picking database 600000000000000 next.
+Picking database -400000000000000 next.
+Picking database 400000000000000 next.
+Picking database -200000000000000 next.
+Picking database 200000000000000 next.
+<<< Finished solving testcase #38
+>>> Solving testcase #39
+Picking database -752210331389202 next.
+Picking database 637833826642159 next.
+Picking database -495900081260184 next.
+Picking database 463635437696020 next.
+Picking database -479825879971262 next.
+Picking database -137623726198384 next.
+Picking database -421008766689959 next.
+Picking database -397510618161172 next.
+<<< Finished solving testcase #39
+>>> Solving testcase #40
+Picking database -893565800 next.
+Picking database 587076525 next.
+Picking database -216601383 next.
+Picking database 432590343 next.
+Picking database -16284451 next.
+Picking database 405853112 next.
+Picking database 350228110 next.
+<<< Finished solving testcase #40
+>>> Solving testcase #41
+Picking database -999999999999970 next.
+Picking database 999999999999758 next.
+Picking database -999999999999272 next.
+Picking database 999999999999613 next.
+Picking database -999999999999241 next.
+Picking database 999999999999377 next.
+Picking database 999999999999062 next.
+<<< Finished solving testcase #41
+>>> Solving testcase #42
+Picking database 978326607 next.
+Picking database -206550686 next.
+Picking database 264283626 next.
+Picking database 138300181 next.
+Picking database 254410787 next.
+Picking database 202382557 next.
+Picking database 251986928 next.
+<<< Finished solving testcase #42
+>>> Solving testcase #43
+Picking database 915960 next.
+Picking database -831084 next.
+Picking database 810621 next.
+Picking database -674195 next.
+Picking database 481057 next.
+Picking database -211130 next.
+Picking database -193131 next.
+Picking database -206124 next.
+<<< Finished solving testcase #43
+>>> Solving testcase #44
+Picking database 999999999999982 next.
+Picking database -999999999999835 next.
+Picking database 999999999999949 next.
+Picking database -999999999999262 next.
+Picking database 999999999999416 next.
+Picking database -999999999999247 next.
+Picking database 999999999999125 next.
+Picking database -999999999999012 next.
+Picking database 999999999999041 next.
+<<< Finished solving testcase #44
+>>> Solving testcase #45
+Picking database -999999999999456 next.
+Picking database 999999999999022 next.
+<<< Finished solving testcase #45
+>>> Solving testcase #46
+Picking database 915067701053050 next.
+Picking database -846703980078843 next.
+Picking database 417955298671499 next.
+Picking database -818008855891645 next.
+Picking database -451653525511260 next.
+Picking database -725418339356482 next.
+Picking database -540235802658979 next.
+Picking database -701607180115501 next.
+<<< Finished solving testcase #46
+>>> Solving testcase #47
+Picking database 900555 next.
+Picking database 249570 next.
+Picking database 831130 next.
+Picking database 347835 next.
+Picking database 800531 next.
+Picking database 475761 next.
+Picking database 555201 next.
+<<< Finished solving testcase #47
+>>> Solving testcase #48
+Picking database -955518750694075 next.
+Picking database 384240718590011 next.
+Picking database -911656610482713 next.
+Picking database 186931843969138 next.
+Picking database -904765703560214 next.
+Picking database 98293114068067 next.
+Picking database -748868950896935 next.
+Picking database -131146110185488 next.
+Picking database -328217746408439 next.
+<<< Finished solving testcase #48
+>>> Solving testcase #49
+Picking database 1000000000000000 next.
+<<< Finished solving testcase #49
+>>> Solving testcase #50
+Picking database 895495 next.
+Picking database -709089 next.
+Picking database 810152 next.
+Picking database -154552 next.
+Picking database 540738 next.
+Picking database -51971 next.
+Picking database 457469 next.
+Picking database 128593 next.
+<<< Finished solving testcase #50
+>>> Solving testcase #51
+Picking database -1000000000000000 next.
+Picking database 1000000000000000 next.
+Picking database -750000000000000 next.
+Picking database 750000000000000 next.
+Picking database -500000000000000 next.
+Picking database 500000000000000 next.
+Picking database -250000000000000 next.
+Picking database 250000000000000 next.
+<<< Finished solving testcase #51
+>>> Solving testcase #52
+Picking database 999999999999999 next.
+Picking database -666666666666666 next.
+Picking database 666666666666666 next.
+Picking database -333333333333333 next.
+Picking database 333333333333333 next.
+<<< Finished solving testcase #52
+>>> Solving testcase #53
+Picking database -999999999999914 next.
+Picking database 999999999999661 next.
+Picking database -999999999999622 next.
+Picking database 999999999999107 next.
+<<< Finished solving testcase #53
+>>> Solving testcase #54
+Picking database 919524229 next.
+Picking database -804738398 next.
+Picking database 696073218 next.
+Picking database -566793504 next.
+Picking database 403191175 next.
+Picking database -422652819 next.
+Picking database 345137829 next.
+Picking database -138474774 next.
+Picking database 195047598 next.
+<<< Finished solving testcase #54
+>>> Solving testcase #55
+Picking database -878930230142602 next.
+Picking database 554291367556828 next.
+Picking database -527403049376258 next.
+Picking database 485611046859525 next.
+Picking database -92417938512669 next.
+Picking database 445144223581185 next.
+Picking database 146322172240111 next.
+Picking database 300572110721724 next.
+<<< Finished solving testcase #55
+>>> Solving testcase #56
+Picking database 586657697034903 next.
+Picking database -412355087494788 next.
+Picking database 550597285682205 next.
+Picking database -352854739815498 next.
+Picking database 72975487976331 next.
+Picking database -295368655953831 next.
+Picking database 15647370949369 next.
+Picking database -258968394781216 next.
+Picking database -41381104424850 next.
+<<< Finished solving testcase #56
+>>> Solving testcase #57
+Picking database -867664203987318 next.
+Picking database 201524028456256 next.
+Picking database -158503182919256 next.
+Picking database 129855050082069 next.
+Picking database -93142669244414 next.
+Picking database 118969029398346 next.
+Picking database 33765709145228 next.
+<<< Finished solving testcase #57
+>>> Solving testcase #58
+Picking database -944510468033474 next.
+Picking database 899093312321864 next.
+Picking database -51274404496998 next.
+Picking database 666221844452110 next.
+Picking database 35589607350927 next.
+Picking database 493480613039043 next.
+Picking database 269031948383089 next.
+<<< Finished solving testcase #58
+>>> Solving testcase #59
+Picking database 949388781372444 next.
+Picking database -853737384291826 next.
+Picking database 932325252268186 next.
+Picking database -307416281590529 next.
+Picking database 460027498913673 next.
+Picking database -95483894532022 next.
+Picking database -17629668011980 next.
+<<< Finished solving testcase #59
+>>> Solving testcase #60
+Picking database -906867255946919 next.
+Picking database 864382880351412 next.
+Picking database -798548980609952 next.
+Picking database 726112219646377 next.
+Picking database -455753770931447 next.
+Picking database 303632603064416 next.
+Picking database -434727919799828 next.
+Picking database 144367982236710 next.
+Picking database -197978730031468 next.
+<<< Finished solving testcase #60
+>>> Solving testcase #61
+Picking database 931863730 next.
+Picking database -826204888 next.
+Picking database 779710887 next.
+Picking database -418444606 next.
+Picking database 722744560 next.
+Picking database -261361774 next.
+Picking database -117427836 next.
+<<< Finished solving testcase #61
+>>> Solving testcase #62
+Picking database -953599534127429 next.
+Picking database 807294824130949 next.
+Picking database -941650544278611 next.
+Picking database 296162493456347 next.
+Picking database -581178640805767 next.
+Picking database -206064017287066 next.
+Picking database -463271933319331 next.
+<<< Finished solving testcase #62
+>>> Solving testcase #63
+Picking database 969285871 next.
+Picking database -892786635 next.
+Picking database 598548880 next.
+Picking database -592409929 next.
+Picking database 419869756 next.
+Picking database -287036693 next.
+Picking database 346234458 next.
+Picking database 7343317 next.
+Picking database 197202508 next.
+<<< Finished solving testcase #63
+>>> Solving testcase #64
+Picking database -729138537569657 next.
+Picking database 357863716497907 next.
+Picking database -551576681454442 next.
+Picking database 342663430685661 next.
+Picking database -400860287341311 next.
+Picking database -145301389014928 next.
+Picking database -380899414981540 next.
+Picking database -288073455555392 next.
+Picking database -298684163485951 next.
+<<< Finished solving testcase #64
+>>> Solving testcase #65
+Picking database -972048 next.
+Picking database 893942 next.
+Picking database -845385 next.
+Picking database 666869 next.
+Picking database -762693 next.
+Picking database 620943 next.
+Picking database 261637 next.
+<<< Finished solving testcase #65
+>>> Solving testcase #66
+Picking database 999999999999035 next.
+<<< Finished solving testcase #66
+>>> Solving testcase #67
+Picking database -991618 next.
+Picking database 955646 next.
+Picking database -337808 next.
+Picking database 855211 next.
+Picking database 159304 next.
+Picking database 543034 next.
+Picking database 408644 next.
+Picking database 530935 next.
+<<< Finished solving testcase #67
+>>> Solving testcase #68
+Picking database -882745 next.
+Picking database 507102 next.
+Picking database -501608 next.
+Picking database -66788 next.
+Picking database -480677 next.
+Picking database -178349 next.
+Picking database -315104 next.
+<<< Finished solving testcase #68
+>>> Solving testcase #69
+Picking database -876811140598510 next.
+Picking database 760619276550199 next.
+Picking database -447856609078964 next.
+Picking database 505332613513109 next.
+Picking database -281802825055160 next.
+Picking database 381069821660083 next.
+Picking database -30265190666512 next.
+Picking database 265506419343621 next.
+Picking database 194590812531454 next.
+<<< Finished solving testcase #69
+>>> Solving testcase #70
+Picking database 877718515910172 next.
+Picking database -730560145154250 next.
+Picking database 525710152734350 next.
+Picking database 125265883831542 next.
+Picking database 467638194669593 next.
+Picking database 223256700723913 next.
+Picking database 378756125053776 next.
+Picking database 309382196002179 next.
+<<< Finished solving testcase #70
+>>> Solving testcase #71
+Picking database 1000000000000000 next.
+Picking database -500000000000000 next.
+Picking database 500000000000000 next.
+<<< Finished solving testcase #71
+>>> Solving testcase #72
+Picking database -711823856493123 next.
+Picking database 328520017601953 next.
+Picking database -708270332889484 next.
+Picking database 134389119893973 next.
+Picking database -475549798729253 next.
+Picking database -117248444401972 next.
+Picking database -425680444748527 next.
+Picking database -202327883677243 next.
+<<< Finished solving testcase #72
+>>> Solving testcase #73
+Picking database 999999999999692 next.
+Picking database -999999999999643 next.
+Picking database 999999999999487 next.
+Picking database -999999999999317 next.
+Picking database 999999999999437 next.
+Picking database -999999999999237 next.
+Picking database 999999999999424 next.
+Picking database -999999999999078 next.
+<<< Finished solving testcase #73
+>>> Solving testcase #74
+Picking database -909308507515730 next.
+Picking database 842643913771405 next.
+Picking database -594710426523933 next.
+Picking database 751662652831135 next.
+Picking database -322362477646667 next.
+Picking database 718521397270982 next.
+Picking database -293020127889739 next.
+Picking database 676425942382224 next.
+Picking database -120468890747692 next.
+<<< Finished solving testcase #74
+>>> Solving testcase #75
+Picking database -719783111720974 next.
+Picking database 609772468112293 next.
+Picking database -481060901976806 next.
+Picking database 259755594981171 next.
+Picking database -414916766295255 next.
+Picking database 134547165372444 next.
+Picking database -55750604493157 next.
+Picking database 23765230201917 next.
+Picking database -29638052977177 next.
+<<< Finished solving testcase #75
+>>> Solving testcase #76
+Picking database -961442 next.
+Picking database 829661 next.
+Picking database -948305 next.
+Picking database -579334 next.
+Picking database -866538 next.
+Picking database -597111 next.
+Picking database -702577 next.
+<<< Finished solving testcase #76
+>>> Solving testcase #77
+Picking database 999999999999946 next.
+Picking database -999999999999447 next.
+Picking database 999999999999903 next.
+Picking database -999999999999305 next.
+Picking database 999999999999774 next.
+Picking database -999999999999117 next.
+Picking database 999999999999761 next.
+Picking database -999999999999068 next.
+Picking database 999999999999500 next.
+<<< Finished solving testcase #77
+>>> Solving testcase #78
+Picking database -1000000000000000 next.
+Picking database 1000000000000000 next.
+<<< Finished solving testcase #78
+>>> Solving testcase #79
+Picking database 503566646951106 next.
+Picking database -474755346201470 next.
+Picking database 379962234793361 next.
+Picking database -427199707056529 next.
+Picking database 217791318801010 next.
+Picking database -146374183243190 next.
+Picking database 67195194824574 next.
+Picking database -140757691586790 next.
+<<< Finished solving testcase #79
+>>> Solving testcase #80
+Picking database 950557 next.
+Picking database -455170 next.
+Picking database 654662 next.
+Picking database 255547 next.
+Picking database 424909 next.
+Picking database 355565 next.
+Picking database 370891 next.
+Picking database 365183 next.
+<<< Finished solving testcase #80
+>>> Solving testcase #81
+Picking database 962244 next.
+Picking database -787728 next.
+Picking database 897981 next.
+Picking database -227158 next.
+Picking database 424366 next.
+Picking database -146362 next.
+Picking database 348706 next.
+Picking database 156182 next.
+<<< Finished solving testcase #81
+>>> Solving testcase #82
+Picking database -999999999999842 next.
+Picking database 999999999999687 next.
+Picking database -999999999999785 next.
+Picking database 999999999999314 next.
+Picking database 999999999999083 next.
+<<< Finished solving testcase #82
+>>> Solving testcase #83
+Picking database -999999999999999 next.
+Picking database 999999999999999 next.
+Picking database -666666666666666 next.
+Picking database 666666666666666 next.
+Picking database -333333333333333 next.
+Picking database 333333333333333 next.
+<<< Finished solving testcase #83
+>>> Solving testcase #84
+Picking database 804428436228503 next.
+Picking database -639272560411938 next.
+Picking database 734228951596368 next.
+Picking database -395996974406123 next.
+Picking database 681635868432692 next.
+Picking database -188095863989634 next.
+Picking database 547711492347369 next.
+Picking database -73618719175571 next.
+Picking database -66757445504109 next.
+<<< Finished solving testcase #84
+>>> Solving testcase #85
+Picking database -999999999999963 next.
+Picking database 999999999999936 next.
+Picking database -999999999999706 next.
+Picking database 999999999999781 next.
+<<< Finished solving testcase #85
+>>> Solving testcase #86
+Picking database 932536422 next.
+Picking database -586797066 next.
+Picking database 471587048 next.
+Picking database -527965417 next.
+Picking database -108306789 next.
+Picking database -482934464 next.
+Picking database -269387173 next.
+<<< Finished solving testcase #86
+>>> Solving testcase #87
+Picking database 994695112923539 next.
+Picking database -930348248232733 next.
+Picking database 524971186336999 next.
+Picking database -886892117629446 next.
+Picking database 213289986859235 next.
+Picking database -226107846441666 next.
+Picking database 19623558332598 next.
+<<< Finished solving testcase #87
+>>> Solving testcase #88
+Picking database -856564531059351 next.
+Picking database 742950272381197 next.
+Picking database -545215597975411 next.
+Picking database 76152364731826 next.
+Picking database -500105951848995 next.
+Picking database 35129748917820 next.
+Picking database -418451430849969 next.
+Picking database -168754441281918 next.
+Picking database -333622373018328 next.
+<<< Finished solving testcase #88
+>>> Solving testcase #89
+Picking database -769343654635188 next.
+Picking database 590221843449853 next.
+Picking database -487136743371529 next.
+Picking database 365153067455359 next.
+Picking database -486640967433208 next.
+Picking database 327564999591025 next.
+Picking database -303380413212919 next.
+Picking database 278412194229031 next.
+Picking database 243789206329123 next.
+<<< Finished solving testcase #89
+>>> Solving testcase #90
+Picking database 957848336631137 next.
+Picking database -380321807087731 next.
+Picking database 874472005413713 next.
+Picking database 73519492170526 next.
+Picking database 720961809405317 next.
+Picking database 249997367744763 next.
+Picking database 685771923124861 next.
+<<< Finished solving testcase #90
+>>> Solving testcase #91
+Picking database 999999999999976 next.
+Picking database -999999999999699 next.
+<<< Finished solving testcase #91
+>>> Solving testcase #92
+Picking database 739823610539090 next.
+Picking database -193955920482373 next.
+Picking database 685880324755193 next.
+Picking database -33904038762856 next.
+Picking database 615758126874240 next.
+Picking database 325625273144295 next.
+Picking database 361086460902193 next.
+<<< Finished solving testcase #92
+>>> Solving testcase #93
+Picking database 966671135 next.
+Picking database -736172870 next.
+Picking database 604358435 next.
+Picking database -342157813 next.
+Picking database 455931214 next.
+Picking database -338116586 next.
+Picking database 260521091 next.
+<<< Finished solving testcase #93
+>>> Solving testcase #94
+Picking database -890938845090043 next.
+Picking database 811878466451350 next.
+Picking database -80400909742544 next.
+Picking database 750216448469970 next.
+Picking database -13910397071603 next.
+Picking database 447031482191991 next.
+Picking database 151786187408634 next.
+Picking database 290646175970226 next.
+Picking database 197533281677395 next.
+<<< Finished solving testcase #94
+>>> Solving testcase #95
+Picking database -999999999999937 next.
+Picking database 999999999999514 next.
+Picking database -999999999999375 next.
+Picking database 999999999999482 next.
+Picking database -999999999999068 next.
+Picking database 999999999999473 next.
+Picking database 999999999999350 next.
+<<< Finished solving testcase #95
+>>> Solving testcase #96
+Picking database -959675819426008 next.
+Picking database 682838677234431 next.
+Picking database -446375979723123 next.
+Picking database 570622417834524 next.
+Picking database 97898144236846 next.
+Picking database 481055597129983 next.
+Picking database 243367703428844 next.
+Picking database 246960181174657 next.
+<<< Finished solving testcase #96
+>>> Solving testcase #97
+Picking database 886604186425910 next.
+Picking database -617062825662800 next.
+Picking database 783555291557107 next.
+Picking database -418595399179298 next.
+Picking database 421788142646489 next.
+Picking database -339614867769666 next.
+Picking database 184303068804530 next.
+Picking database -99204079690145 next.
+<<< Finished solving testcase #97
+>>> Solving testcase #98
+Picking database -998241684112523 next.
+Picking database 387285187791574 next.
+Picking database -417407008357076 next.
+Picking database 216542448074413 next.
+Picking database -136916587198879 next.
+Picking database -7051937404698 next.
+<<< Finished solving testcase #98
+>>> Solving testcase #99
+Picking database 999999999999931 next.
+Picking database -999999999999855 next.
+Picking database 999999999999243 next.
+<<< Finished solving testcase #99
+>>> Solving testcase #100
+Picking database -992484507210958 next.
+Picking database 968223655846357 next.
+Picking database -961626972445574 next.
+Picking database 906342538740671 next.
+Picking database -677189922432091 next.
+Picking database 216416466313320 next.
+Picking database -358404722917042 next.
+<<< Finished solving testcase #100

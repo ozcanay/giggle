@@ -1,0 +1,7 @@
+/home/ozcanay/giggle/build/CMakeFiles/install/strip.dir
+/home/ozcanay/giggle/build/CMakeFiles/install/local.dir
+/home/ozcanay/giggle/build/CMakeFiles/giggle.dir
+/home/ozcanay/giggle/build/CMakeFiles/edit_cache.dir
+/home/ozcanay/giggle/build/CMakeFiles/rebuild_cache.dir
+/home/ozcanay/giggle/build/CMakeFiles/install.dir
+/home/ozcanay/giggle/build/CMakeFiles/list_install_components.dir
