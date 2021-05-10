@@ -90,14 +90,18 @@ long long Testcase::solve()
 #endif
 
 
+    if(longest_response_time_ <= threshold_) {
 #ifdef VERBOSE
+        std::cout << "RESPONSE TIME: " << longest_response_time_ << std::endl;
         std::cout << "<<< Finished solving testcase #" << id_ << std::endl;
 #endif
-
-    if(longest_response_time_ <= threshold_) {
         return longest_response_time_;
     } else {
-        return -1;;
+#ifdef VERBOSE
+        std::cout << "NO SOLUTION." << std::endl;
+        std::cout << "<<< Finished solving testcase #" << id_ << std::endl;
+#endif
+        return -1;
     }
 }
 
